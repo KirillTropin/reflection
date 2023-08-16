@@ -6,6 +6,8 @@ import org.example.annotationTipaTest.Test;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Arrays;
 
 public class Main {
@@ -34,3 +36,4 @@ public class Main {
         }
     }
 }
+
