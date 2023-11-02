@@ -1,13 +1,11 @@
 package org.example;
 
-import org.example.annotationTipaTest.AfterEach;
-import org.example.annotationTipaTest.BeforeEach;
-import org.example.annotationTipaTest.Test;
+import org.example.annotations.AfterEach;
+import org.example.annotations.BeforeEach;
+import org.example.annotations.Test;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Arrays;
 
 public class Main {

@@ -1,5 +1,5 @@
 import org.example.ProstoClass;
-import org.example.annotationTipaTest.Test;
+import org.example.annotations.Test;
 
 public class ProstTest {
 

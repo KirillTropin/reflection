@@ -1,5 +1,8 @@
 package org.example;
 
+import org.example.annotations.CustomToString;
+
+@CustomToString
 public class ProstoClass {
     public int vChyomSmyslVsegoIVoobcshe;
 
